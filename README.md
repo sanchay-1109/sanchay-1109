@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Sanchay Sindhwani</h1>
 <h3 align="center">A Computer Science Undergrad Student passionate to learn new things.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchay-1109&label=Profile%20views&color=0e75b6&style=flat" alt="sanchay-1109" /> </p>
  <h3 align="left">💫 About Me:</h3>
 🔭 I’m currently working on DSA and WEB DEV Projects<br><br>🌱 I’m currently learning MERN Stack, AI and ML<br><br>👯 I’m looking to collaborate on Web development Projects<br><br>🤝 I’m looking for help with Data Structures and Algorithms<br><br>📫 How to reach me sanchaysindhwani2002@gmail.com<br><br>⚡ Fun fact "You can earn while you sleep"
 
