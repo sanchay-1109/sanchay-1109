@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sanchay Sindhwani</h1>
 <h3 align="center">A Computer Science Undergrad Student passionate to learn new things.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
- 💫 About Me:
+ <h4 align="left">💫 About Me:</h4>
 🔭 I’m currently working on DSA and WEB DEV Projects<br><br>🌱 I’m currently learning MERN Stack, AI and ML<br><br>👯 I’m looking to collaborate on Web development Projects<br><br>🤝 I’m looking for help with Data Structures and Algorithms<br><br>📫 How to reach me sanchaysindhwani2002@gmail.com<br><br>⚡ Fun fact "You can earn while you sleep"
 
 <h3 align="left">Connect with me:</h3>
