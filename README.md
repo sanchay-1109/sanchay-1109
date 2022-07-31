@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=sanchay-1109&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanchay-1109&theme=blueberry&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchay-1109&theme=blueberry)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchay-1109&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
